@@ -5,6 +5,7 @@ import Home from './Home';
 import Produtos from './Produtos';
 import Sobre from './Sobre';
 import Footer from './Footer';
+import './App.css'
 
 function App() {
   return (
